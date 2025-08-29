@@ -21,3 +21,9 @@
 
 # Проверь логи
 `docker-compose logs -f bot`
+
+# Для редактирования
+`docker compose down`<br>
+После того, как внёс изменения
+`docker compose build`<br>
+`docker compose up`<br>
