@@ -24,6 +24,6 @@
 
 # Для редактирования
 `docker compose down`<br>
-После того, как внёс изменения
+После того, как внёс изменения<br>
 `docker compose build`<br>
 `docker compose up`<br>
